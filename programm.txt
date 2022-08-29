@@ -1,0 +1,9 @@
+x;
+x:=10;
+begin
+y:=10; /*space for
+comment
+*/
+deep:=-1;
+deep:=deep + (x-y);
+end
